@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "387FE00A-689C-45FD-B950-75D1DA1F8041"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A31A0D4C-E8C0-4C50-B6B1-BC1F02549A2F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarbleSolitarie/HexagonalBoardView.swift"
+            startingColumnNumber = "38"
+            endingColumnNumber = "38"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "setData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
